@@ -106,7 +106,7 @@
     "promptl-ai": "catalog:",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",
-    "react-email": "^4.0.3",
+    "react-email": "^4.0.16",
     "safe-regex": "^2.1.1",
     "socket.io-client": "^4.7.5",
     "stripe": "^18.1.0",
