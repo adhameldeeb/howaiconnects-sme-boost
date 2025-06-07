@@ -9,6 +9,6 @@
     "@latitude-data/eslint-config": "workspace:^",
     "@latitude-data/typescript-config": "workspace:^",
     "@latitude-data/env": "workspace:^",
-    "tsx": "^4.16.2"
+    "tsx": "^4.19.4"
   }
 }
