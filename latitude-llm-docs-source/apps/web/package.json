@@ -77,7 +77,7 @@
     "zustand": "^4.5.6"
   },
   "devDependencies": {
-    "@faker-js/faker": "^8.4.1",
+    "@faker-js/faker": "^9.8.0",
     "@latitude-data/eslint-config": "workspace:*",
     "@latitude-data/typescript-config": "workspace:*",
     "@next/eslint-plugin-next": "^14.2.4",
