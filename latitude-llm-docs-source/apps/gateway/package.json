@@ -28,7 +28,7 @@
     "@t3-oss/env-core": "^0.13.6",
     "drizzle-orm": "catalog:",
     "hono": "^4.6.6",
-    "ioredis": "^5.4.1",
+    "ioredis": "^5.6.1",
     "lodash-es": "^4.17.21",
     "promptl-ai": "catalog:",
     "rate-limiter-flexible": "^5.0.3",
