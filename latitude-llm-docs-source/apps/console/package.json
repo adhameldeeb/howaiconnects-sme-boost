@@ -4,7 +4,7 @@
   "description": "Interact with Latitude through the console",
   "type": "module",
   "devDependencies": {
-    "@types/node": "^22.5.1",
+    "@types/node": "^24.0.1",
     "@latitude-data/core": "workspace:^",
     "@latitude-data/eslint-config": "workspace:^",
     "@latitude-data/typescript-config": "workspace:^",
